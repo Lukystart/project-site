@@ -1,0 +1,41 @@
+* {
+    border: 0;
+    margin: 0;
+}
+
+.container {}
+
+.menu {
+    margin: 20rem;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    background-image: url("paper.gif");
+}
+
+#banner {}
+
+#banner h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    font-family: 'Oswald', sans-serif;
+    font-size: 4rem;
+    font-weight: 800;
+}
+
+#banner p {
+    text-align: center;
+}
+
+.Bontons-interation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Bontons-interation a {
+    margin: 5rem;
+}
